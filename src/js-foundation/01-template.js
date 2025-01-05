@@ -8,4 +8,4 @@ const emailTemplate = `
 
 module.exports = {
     emailTemplate
-} 
+}
