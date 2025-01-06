@@ -1,6 +1,6 @@
 # 02 Bases de Node
 
-Correr en Dev
+Para correr el proyecto solo debes Correr en terminal
 ```
 npm run dev
 
